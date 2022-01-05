@@ -1,6 +1,6 @@
 # dt-money-ignite-Rocketseat
 
-<h2>Linguagem, frameworks e ferramentas utilizadas<h2/>
+<h2>Linguagem, frameworks e ferramentas utilizadas.<h2/>
 
 - React js
 - miragejs
@@ -10,6 +10,7 @@
 - react-modal
 - Typescript
 - Axios
+
  <h2>Imagem</h2>
  <div>
  <img width=900 , height=600 src="https://user-images.githubusercontent.com/63307185/148124288-55fee977-65cc-426b-aac2-bc3d04ad6cf9.png"
